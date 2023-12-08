@@ -6,6 +6,9 @@
 <img src="https://img.shields.io/badge/build-passing-brightgreen"/>
 <img src="https://img.shields.io/badge/Solidity-v0.8.18-blue"/>
 </div>
+<div align="center">
+A smart contract for land management based on solidity.
+</div>
 
 
 #### Problem statement:
