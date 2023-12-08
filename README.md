@@ -60,7 +60,7 @@ The unit tests are placed in the `./source_code/tests`.
 #### Vulnerabilities Verification
 
 Slither result:
-![Alt text](image-1.png)
+![image-1](https://github.com/Zhuohua-HUANG/LandManagementContract/assets/71301342/f22f8788-4be1-4feb-9a40-ab6b15adf6cc)
 
 #### Deploy and Verified with Etherscan
 
