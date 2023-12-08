@@ -1,6 +1,11 @@
 
-
-### <center>Unregulated Cross-Border Land Sale and Distribution System<center/>
+<h1 align="center">
+  <br>Unregulated Cross-Border Land Sale and Distribution System<br>
+</h1>
+<div align="center">
+<img src="https://img.shields.io/badge/build-passing-brightgreen"/>
+<img src="https://img.shields.io/badge/Solidity-v0.8.18-blue"/>
+</div>
 
 
 #### Problem statement:
